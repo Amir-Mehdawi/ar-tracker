@@ -34,7 +34,7 @@
 
 ## ⚙️ Configuration Example (`config.lua`)
 
-![Config Preview](https://media.discordapp.net/attachments/956985723800678440/1431620580632957029/code-snapshot.png?ex=68fe1410&is=68fcc290&hm=19e0dee450665e296dfe0d9a37d2b67a3da47d9b0b12b09cc759425fd7755c7d&=&format=webp&quality=lossless&width=950&height=1511)
+![Config Preview](https://cdn.discordapp.com/attachments/956985723800678440/1431625619417858190/code-snapshot.png?ex=68fe18c1&is=68fcc741&hm=b1f14b381d901decd18c509de291e41922e6abe828cbe8df3cd42c7e64968c16&)
 
 ---
 
@@ -63,3 +63,4 @@ This project is released under the [MIT License](https://opensource.org/licenses
 
 
 ---
+
