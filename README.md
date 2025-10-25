@@ -1,5 +1,5 @@
-
-
+## Leave A Star
+---
 ## 🌟 Features
 - ⚙️ Fully customizable system via `config.lua`
 - 🔄 Synced behavior between all players
@@ -63,4 +63,5 @@ This project is released under the [MIT License](https://opensource.org/licenses
 
 
 ---
+
 
